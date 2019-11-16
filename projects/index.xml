@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Projects | Chunjin Song</title>
+    <link>https://ChunjinSong.github.io/projects/</link>
+      <atom:link href="https://ChunjinSong.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jun 2018 20:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ChunjinSong.github.io/img/icon-192.png</url>
+      <title>Research Projects</title>
+      <link>https://ChunjinSong.github.io/projects/</link>
+    </image>
+    
+    <item>
+      <title>Global-to-Local Generative Model for 3D Shapes</title>
+      <link>https://ChunjinSong.github.io/projects/g2l/</link>
+      <pubDate>Wed, 13 Jun 2018 20:00:00 +0000</pubDate>
+      <guid>https://ChunjinSong.github.io/projects/g2l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
