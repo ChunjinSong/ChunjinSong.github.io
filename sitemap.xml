@@ -23,22 +23,22 @@
   </url>
   
   <url>
-    <loc>https://ChunjinSong.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ChunjinSong.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ChunjinSong.github.io/projects/g2l/</loc>
+    <loc>https://ChunjinSong.github.io/tags/g2l/</loc>
     <lastmod>2018-06-13T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ChunjinSong.github.io/projects/</loc>
+    <loc>https://ChunjinSong.github.io/project/g2l/</loc>
+    <lastmod>2018-06-13T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChunjinSong.github.io/project/</loc>
+    <lastmod>2018-06-13T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChunjinSong.github.io/tags/</loc>
     <lastmod>2018-06-13T20:00:00+00:00</lastmod>
   </url>
   
@@ -60,10 +60,6 @@
   
   <url>
     <loc>https://ChunjinSong.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ChunjinSong.github.io/tags/</loc>
   </url>
   
 </urlset>

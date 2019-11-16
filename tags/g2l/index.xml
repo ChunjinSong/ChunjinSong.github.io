@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Chunjin Song</title>
-    <link>https://ChunjinSong.github.io/tags/</link>
-      <atom:link href="https://ChunjinSong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
+    <title>G2L | Chunjin Song</title>
+    <link>https://ChunjinSong.github.io/tags/g2l/</link>
+      <atom:link href="https://ChunjinSong.github.io/tags/g2l/index.xml" rel="self" type="application/rss+xml" />
+    <description>G2L</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jun 2018 20:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ChunjinSong.github.io/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://ChunjinSong.github.io/tags/</link>
+      <title>G2L</title>
+      <link>https://ChunjinSong.github.io/tags/g2l/</link>
     </image>
     
     <item>
-      <title>G2L</title>
-      <link>https://ChunjinSong.github.io/tags/g2l/</link>
+      <title>Global-to-Local Generative Model for 3D Shapes</title>
+      <link>https://ChunjinSong.github.io/project/g2l/</link>
       <pubDate>Wed, 13 Jun 2018 20:00:00 +0000</pubDate>
-      <guid>https://ChunjinSong.github.io/tags/g2l/</guid>
+      <guid>https://ChunjinSong.github.io/project/g2l/</guid>
       <description></description>
     </item>
     
